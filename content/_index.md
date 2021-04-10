@@ -4,9 +4,8 @@ sections:
   - type: hero_section
     title: ettst
     subtitle: Optional hero section subtitle
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: |
+      test
     actions:
       - label: Try Free
         url: /pricing
